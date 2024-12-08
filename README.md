@@ -1,2 +1,2 @@
-#PCWIN.exe
+PCWIN.exe
 Destructive Trojan :D
